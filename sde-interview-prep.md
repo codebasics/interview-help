@@ -20,7 +20,7 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
        - Big O cheatsheet for a quick reference of time complexities: https://www.bigocheatsheet.com/
    4. Practicing 2000 questions on leetcode alone won't help you. Interviewers are not looking for only answers, they are more interested in your approach. How you communicate, if you are asking clarifying questions, thinking aloud and using hints wisely! You need to be calm. Don't do this ❌ https://www.youtube.com/watch?v=5bId3N7QZec
    5. **Mock Interviews** are extremely effective and are **HIGHLY RECOMMENDED**. You can ask your friend or a college senior to conduct this interview or use a paid service such as https://interviewing.io/ or https://www.pramp.com/#/ (I've not used these services myself so evaluate these yourselves. In any case, I think spending money on mock interviews is TOTALLY WORTH IT)
-   6. As an interviewer, I've noticed that when a person uses Python for coding interview, they get unfair advantage over candidates using Java/C++. This is because you can write compact code in Python, have to memorize less and there is less clutter that makes things easier for both the interviewer and the candidate.
+   6. As an interviewer, I've noticed that when a person uses Python 🐍 for coding interview, they get unfair advantage over candidates using Java/C++. This is because you can write compact code in Python, have to memorize less and there is less clutter that makes things easier for both the interviewer and the candidate. Hence if it is possible, use Python for your coding round.
    
 ### 4. System Design Interview 🛠️
    1. These questions are mostly for experienced candidates

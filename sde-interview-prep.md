@@ -32,6 +32,10 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
    3. Many companies give interview material in advance to a candidate who is being interviewed. Do a proper study of that material before going to the interview.
    4. Be honest. Don't overcommit. 
 
+### 6. Salary Negotiation 💰
+   1. [levels.fyi](https://www.levels.fyi/) and [teamblind](https://www.teamblind.com/) are two good resources that can help you get an understanding on how much you salary you should get
+   2. You can use negotiation coaching services e.g. [levels.fyi negotiation coaching](https://www.levels.fyi/services/?from=subnav) to acquire skills on how to negotiate salaries 
+   
 
 ### Useful References
 

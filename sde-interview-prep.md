@@ -26,10 +26,13 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
 
 ### 5. Behavioral Interview 👨‍👦‍👦
 
-**References:**
+### References
 
-Practical tips from a person who cracked 10 jobs in big tech (Microsoft, Facebook, Amazon etc.): https://www.youtube.com/watch?v=z_96KlOS92o
-Some linkedin posts from folks who made into big tech: 
+Practical tips from a person who cracked 10 jobs in big tech (Microsoft, Facebook, Amazon etc.)
+
+[<img src="https://img.youtube.com/vi/z_96KlOS92o/maxresdefault.jpg" width="400">](https://youtu.be/z_96KlOS92o)
+
+Some linkedin posts from folks who made into big tech:
 
 1) Meta Software Intern: https://www.linkedin.com/posts/steph-su_how-i-prepared-for-my-meta-technical-interviews-activity-6924119412383916032-YJHZ?utm_source=linkedin_share&utm_medium=member_desktop_web
 2) Meta Software Engineer: https://www.linkedin.com/posts/jaimin-brahmbhatt_newjob-meta-metafacebook-activity-6924859552408502272-vn8r?utm_source=linkedin_share&utm_medium=member_desktop_web

@@ -19,14 +19,21 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
        - DSA playlist in Python that has helped many land a job at Meta, Microsoft, Walmart etc: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
        - Big O cheatsheet for a quick reference of time complexities: https://www.bigocheatsheet.com/
    4. Practicing 2000 questions on leetcode alone won't help you. Interviewers are not looking for only answers, they are more interested in your approach. How you communicate, if you are asking clarifying questions, thinking aloud and using hints wisely! You need to be calm. Don't do this ❌ https://www.youtube.com/watch?v=5bId3N7QZec
-   5. 
-
-
+   
 ### 4. System Design Interview 🛠️
+   1. These questions are mostly for experienced candidates
+   2. Some good resources to study system design are,
+       - Gaurav Sen's YouTube Channel: https://www.youtube.com/c/GauravSensei
+       - System Design Primer: https://github.com/donnemartin/system-design-primer
 
 ### 5. Behavioral Interview 👨‍👦‍👦
+   1. Most common behavioral questions: https://www.techinterviewhandbook.org/behavioral-interview-questions/
+   2. Do thorough analysis on the company where you are interviewing. For example, in Amazon interview they ask about Amazon leadership principles:  https://www.amazon.jobs/en/principles
+   3. Many companies give interview material in advance to a candidate who is being interviewed. Do a proper study of that material before going to the interview.
+   4. Be honest. Don't overcommit. 
 
-### References
+
+### Useful References
 
 Practical tips from a person who cracked 10 jobs in big tech (Microsoft, Facebook, Amazon etc.)
 

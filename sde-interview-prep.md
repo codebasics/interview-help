@@ -2,6 +2,9 @@
 
 Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talking with many folks who successfully cracked job interviews in FAANG companies, I've prepared this guide that can be helpful to anyone preparing to get a job at big tech companies 🚀 
 
+<img src="https://user-images.githubusercontent.com/60363945/182002358-6aeaace6-4516-4871-b464-69c204e38b3a.JPG" width="1000">
+
+
 ### 1. Resume Preparation 📝
    1. Make sure your have a **single page resume**. I've interviewed candidates with 20 years of experience having very impressive single page resume. Some guidelines are (a) customize the resume for a given job position removing anything that is irrelavant (b) include minimum personal details (c) reduce page margins (d) remove vague statement and add proofs if possible. e.g. I would remove "strong communication skills" from the resume but I'd keep "strong communication skills - served as a secretary of toastmasters english speaking club"
    2. Use **STAR** method (Situation, Task, Action, Result) for your past experience

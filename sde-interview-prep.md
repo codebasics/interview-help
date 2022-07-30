@@ -48,7 +48,7 @@ Practical tips from a person who cracked 10 jobs in big tech (Microsoft, Faceboo
 
 [<img src="https://img.youtube.com/vi/z_96KlOS92o/maxresdefault.jpg" width="400">](https://youtu.be/z_96KlOS92o)
 
-Some linkedin posts from folks who made into big tech:
+Some linkedin posts from folks who made into big tech (few of the above resources are derived from these linkedin posts):
 
 1) Meta Software Intern: https://www.linkedin.com/posts/steph-su_how-i-prepared-for-my-meta-technical-interviews-activity-6924119412383916032-YJHZ?utm_source=linkedin_share&utm_medium=member_desktop_web
 2) Meta Software Engineer: https://www.linkedin.com/posts/jaimin-brahmbhatt_newjob-meta-metafacebook-activity-6924859552408502272-vn8r?utm_source=linkedin_share&utm_medium=member_desktop_web

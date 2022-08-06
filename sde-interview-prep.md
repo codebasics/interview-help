@@ -1,10 +1,12 @@
 ## FAANG Interview Preparation Guide For Software Engineers (For Fresh & Experienced Candidates)
 
-The video format of this guide is available here with some more details: https://www.youtube.com/watch?v=jfpdr9j94_k
-
 Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talking with many folks who successfully cracked job interviews in FAANG companies, I've prepared this guide that can be helpful to anyone preparing to get a job at big tech companies 🚀 
 
 <img src="https://user-images.githubusercontent.com/60363945/182002358-6aeaace6-4516-4871-b464-69c204e38b3a.JPG" width="1000">
+
+#### The video format of this guide is available here with some more details (click on the thumbnail)
+
+[<img src="https://img.youtube.com/vi/jfpdr9j94_k/maxresdefault.jpg" width="300">](https://youtu.be/jfpdr9j94_k)
 
 
 ### 1. Resume Preparation 📝

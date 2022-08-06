@@ -4,7 +4,7 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
 
 <img src="https://user-images.githubusercontent.com/60363945/182002358-6aeaace6-4516-4871-b464-69c204e38b3a.JPG" width="1000">
 
-#### The video format of this guide is available here with some more details (click on the thumbnail)
+#### The video format of this guide is available here with some more details (click on the thumbnail to play this youtube video)
 
 [<img src="https://img.youtube.com/vi/jfpdr9j94_k/maxresdefault.jpg" width="300">](https://youtu.be/jfpdr9j94_k)
 

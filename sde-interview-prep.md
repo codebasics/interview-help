@@ -21,7 +21,7 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
    
 ### 3. Coding Interview ⌨️
    1. Use leetcode for coding interview prep. https://www.techinterviewhandbook.org/grind75 contains top 75 leetcode questions that you must try out. Based on how much effort you want to put, you can make 2 to 6 months plan for interview prep. Even if you do 5 questions per week, in 3 months, you will be done with 60 questions.
-   2. https://www.geeksforgeeks.org/ is another great resource
+   2. https://www.geeksforgeeks.org/ and https://www.hackerrank.com/ are two other great resources
    3. Data structures and algorithms is the heart of coding interview. Few resources that can help,
        - DSA playlist in Python that has helped many land a job at Meta, Microsoft, Walmart etc: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
        - Big O cheatsheet for a quick reference of time complexities: https://www.bigocheatsheet.com/

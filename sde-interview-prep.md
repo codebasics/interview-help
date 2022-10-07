@@ -33,6 +33,7 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
    1. These questions are mostly for experienced candidates
    2. Some good resources to study system design are,
        - Gaurav Sen's YouTube Channel: https://www.youtube.com/c/GauravSensei
+       - Gaurav Sen's system design course that can help ace interviews in big tech companies: https://interviewready.io/?_aff=CODEBASICS
        - System Design Primer: https://github.com/donnemartin/system-design-primer
 
 ### 5. Behavioral Interview 👨‍👦‍👦

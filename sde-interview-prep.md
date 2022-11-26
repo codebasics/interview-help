@@ -24,6 +24,7 @@ Based on my 12+ years of interviewing experience at Bloomberg, NVIDIA and talkin
    2. https://www.geeksforgeeks.org/ and https://www.hackerrank.com/ are two other great resources
    3. Data structures and algorithms is the heart of coding interview. Few resources that can help,
        - DSA playlist in Python that has helped many land a job at Meta, Microsoft, Walmart etc: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+       - DSA playlist in Java https://www.youtube.com/watch?v=rZ41y93P2Qo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
        - Big O cheatsheet for a quick reference of time complexities: https://www.bigocheatsheet.com/
    4. Practicing 2000 questions on leetcode alone won't help you. Interviewers are not looking for only answers, they are more interested in your approach. How you communicate, if you are asking clarifying questions, thinking aloud and using hints wisely! You need to be calm. Don't do this ❌ https://www.youtube.com/watch?v=5bId3N7QZec
    5. **Mock Interviews** are extremely effective and are **HIGHLY RECOMMENDED**. You can ask your friend or a college senior to conduct this interview or use a paid service such as https://interviewing.io/ or https://www.pramp.com/#/ (I've not used these services myself so evaluate these yourselves. In any case, I think spending money on mock interviews is TOTALLY WORTH IT)
